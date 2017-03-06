@@ -12,7 +12,7 @@ Anna made a set of seven icons representing the weather. The following lists the
 - Hurricane
 
 And I added 
--Nighttime 
+- Nighttime 
 
 An updated SVG sprite contains all 8 icons.
 
