@@ -1,6 +1,7 @@
-# SVG Weather Icons 
+# SVG Version Control Assignment
+### Forked from Anna Chiu
 
-Here is a set of seven icons representing the weather. The following lists the weathers depicted:
+Anna made a set of seven icons representing the weather. The following lists the weathers depicted:
 
 - Sunny
 - Partly Cloudy
@@ -10,6 +11,10 @@ Here is a set of seven icons representing the weather. The following lists the w
 - Snow
 - Hurricane
 
-To see all the weather icons, click [here](http://i6.cims.nyu.edu/~awc316/dotw/svg/).
+And I added 
+-Nighttime 
 
-Additionally, a sprite svg file with all the above icons is included.
+An updated SVG sprite contains all 8 icons.
+
+[Anna's original repository](https://github.com/AnnaChiu/svg-version-control).
+
